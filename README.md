@@ -2,4 +2,4 @@ Sometimes You just don't wanna do Chinese when you know all of the material alre
 
 So...
 
-You don't have to.
+You don't have to. Intended for use in class when everyone else is on discord or messages.
