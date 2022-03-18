@@ -102,7 +102,7 @@ def convert(text, langauge_tuple_list):
 
 
 #not sure why 50 but works
-for i in range(50):
+for i in range(52):
     sleep(2)
     
     definition_element = driver.find_element(By.CSS_SELECTOR, '#English > h2')
