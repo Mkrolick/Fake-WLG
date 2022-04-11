@@ -102,7 +102,7 @@ def convert(text, langauge_tuple_list):
 
 
 #not sure why 50 but works
-for i in range(52):
+for _ in range(100):
     sleep(2)
     
     definition_element = driver.find_element(By.CSS_SELECTOR, '#English > h2')
@@ -123,3 +123,4 @@ for i in range(52):
 
 
 
+#end_html_xpath = "/html/body/form/h1"
